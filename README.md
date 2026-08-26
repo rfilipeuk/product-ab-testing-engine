@@ -1,6 +1,6 @@
 # Product Monetization A/B Testing Engine
 
-An end-to-end experiment design, sample sizing, data integrity audit, and hypothesis testing pipeline analyzing ~50,000 checkout events for pricing and conversion rate optimization (CRO).
+An end-to-end experiment design, sample sizing, data integrity audit, and hypothesis testing pipeline analysing ~50,000 checkout events for pricing and conversion rate optimisation (CRO).
 
 ---
 
@@ -56,7 +56,7 @@ product-ab-testing-engine/
 
 ```bash
 # Clone repository
-git clone [https://github.com/rfilipeuk/product-ab-testing-engine.git](https://github.com/rfilipeuk/product-ab-testing-engine.git)
+git clone (https://github.com/rfilipeuk/product-ab-testing-engine.git)
 cd product-ab-testing-engine
 
 # Create environment and install dependencies
